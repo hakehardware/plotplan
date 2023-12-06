@@ -1,5 +1,5 @@
 # plotplan
-Simple script to get the number of SUs a drive can git based on the free space available
+Simple script to get the number of SUs a drive can use based on the free space available
 
 ### Install Venv
 
